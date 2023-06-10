@@ -14,7 +14,7 @@ GRBL Adapter using an STM32 BluePill
 | $10 | 1 | Status report options |
 | $11 | 0.010 | Junction deviation |
 | $13 | 0 | Report in inches |
-| $20 | 0 | Soft limits enable |
+| $20 | 1 | Soft limits enable |
 | $21 | 1 | Hard limits enable |
 | $22 | 1 | Homing cycle enable |
 | $23 | 1 | Homing direction invert |
